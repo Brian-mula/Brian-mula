@@ -46,9 +46,8 @@
 <br>
 
 <p align="center">
-<a href="https://twitter.com/wekesa350" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Brian" height="20" width="20" /></a>
-<a href="https://linkedin.com/in/wekesa350" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Brian" height="20" width="20" /></a>
-<a href="https://stackoverflow.com/wekesa350" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="Brian" height="20" width="20" /></a>
-<a href="https://instagram.com/wekesa350" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Brian" height="20" width="20" /></a>
-  <a href="https://dev.to/wekesa350" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="Brian" height="20" width="20" /></a>
+<a href="https://twitter.com/juniormulati1" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Brian" height="20" width="20" /></a>
+<a href=" https://www.linkedin.com/in/mulati-brian-junior-b67435212" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Brian" height="20" width="20" /></a>
+<a href="https://stackoverflow.com/?newreg=a08ce934fec14a17acc16ad8a0ed5a3d" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="Brian" height="20" width="20" /></a>
+
 </p>
